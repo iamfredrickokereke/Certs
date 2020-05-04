@@ -1,8 +1,10 @@
-# Certs
-## Some certs for learning purposes.
+# Certification of completion.
 
 
-### Below are screenshots for some recent courses completed amongst others:
+## March - April certs acquired for learning purposes.
+
+
+### These are screenshots for recent courses completed amongst many others:
 
 ### OVERVIEW:
 - [x] Screenshot 1 - A udemy course on git workflow
