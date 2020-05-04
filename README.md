@@ -9,6 +9,7 @@
 - [x] Screenshot 2 - A pluralsight course on mongodb and nodejs
 - [x] Screenshot 3 - A pluralsight course on nodejs and its possibilities
 - [x] Screenshot 4 - My simple lenovo laptop
+- [x] Screenshot 5 - Github daily consistent learning commit chart graph
 
 
 
@@ -26,6 +27,8 @@
 
 
 # Screenshot 4
-<img src="./images/laptop.png" alt="Node course" />
+<img src="./images/laptop.png" alt="Laptop" />
 
+# Screenshot 5
+<img src="./images/github.png" alt="Github chart" />
 
